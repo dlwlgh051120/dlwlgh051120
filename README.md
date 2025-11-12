@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋%20안녕하세요%20이지호입니다;🏫%20한세대학교%20IT학부%201학년;💻%20AI%20/%20Security%20interests&center=true&font=Fira%20Code&size=26)](https://git.io/typing-svg)
+
 
 <!--
 **dlwlgh051120/dlwlgh051120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
