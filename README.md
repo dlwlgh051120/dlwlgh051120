@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=32&duration=3000&pause=800&color=4AAE9B&center=true&vCenter=true&width=700&lines=안녕하세요!+이지호입니다.;대학생이고+IT전공을+공부하고+있습니다.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2800&pause=800&color=1DA1F2&center=true&vCenter=true&width=700&lines=안녕하세요!+이지호입니다.;대학생이고+IT전공을+공부하고+있습니다.)](https://git.io/typing-svg)
+
 
 
 
